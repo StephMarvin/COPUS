@@ -1,0 +1,32 @@
+.custom-btn {
+    background-color: #FF5F1F;
+    border: none;
+}
+
+.custom-btn-color {
+    /* color: #00ADB5; */
+    color: #FF5F1F;;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease-out;
+}
+
+.admin-btn {
+    background-color: #2b3c49;
+}
+
+.acad-btn {
+    background-color: #4a5b66;
+}
+
+.dean-btn {
+    background-color: #00a5b5;
+}
+
+/* #f2f2f2 */
+
+.custom-select {
+    font-size: 12px;
+}
