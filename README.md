@@ -118,7 +118,7 @@ Steps
 6. Run the System
    
    - Open browser and go to:
-     http://localhost/copus-system
+     http://localhost/f_copus
 
 ---
 
