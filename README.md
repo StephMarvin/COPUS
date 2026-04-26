@@ -1,4 +1,4 @@
-Classroom Observation Protocol for Undergraduate STEM
+Classroom Observation Protocol for Undergraduate STEM (COPUS)
 
 ---
 
